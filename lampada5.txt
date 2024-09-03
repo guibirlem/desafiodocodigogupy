@@ -1,0 +1,3 @@
+#logica 
+1, liga o interruptor 1 e deixa ligado por uns 10 a 15 minutos, pra lâmpada esquentar . depois desliga o interruptor 1 e liga o interruptor 2, e deixa o interruptor 3 desligado. aí você vai até as salas das lâmpadas.
+na primeira sala, a lâmpada que estará acesa é a que o interruptor 2 controla. na segunda sala, toca na lâmpada que tá apagada e quente, essa é a que o interruptor 1 controla. e na terceira sala, a lâmpada que tá apagada e fria é a que o interruptor 3 controla. assim você descobre qual interruptor controla cada lâmpada com só duas caminhadas
